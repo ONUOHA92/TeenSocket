@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #F7F5FB !important;
+}
+
+.Teen{
+	font-family: 'Courier New', Courier, monospace;
+	font-style: initial;
+	font-size: 30px;
+	font-weight: 700;
+	color: #F9AB55;
+}
+
+.Teen1{
+	font-family: 'Courier New', Courier, monospace;
+	font-style: initial;
+	font-weight: 700;
+	color: chartreuse;
+}
+
+.navbar-expand-lg{
+	background-color: #564881;
+}
+
+.fa-glide-g{
+	background-color: #F58A07;
+}
+
+.nav-link{
+   color: #F9AB55 !important;
+}
+.icon{
+  color: #F58A07;  
+}
+
+.px-3{
+    color: #F9AB55 !important;
+}
+
+.jumbotron{
+    background: #F7F5FB;
+}
+
+.btn-learn{
+	outline:2px solid #F9AB55 !important;
+	border-radius:0px !important;
+	transition:.8s all !important;
+}
+
+.btn-learn:hover{
+	background-color:#F9AB55 !important;
+	outline:1px solid #fff !important;
+	color:#fff !important;
+}
+
+.services{
+    background-color: #fff !important;
+}
+
+.btn-outline-success{
+    background-color: #F58A07 !important;
+}
+
+
+.ci{
+	background-color:#F58A07 !important;
+	padding:30px;
+	border-radius:50%;
+	transition:.5s all;
+	transition-property:border-radius,background-color;
+	cursor:pointer;
+	transition-timing-function:ease-in-out;
+}
+
+/* skill section */
+.display-2{
+	color:  #F9AB55; 
+}
+ 
+/* this is font awesome */
+.fa{
+	color: #F9AB55;
+}
+
+/* btn */
+.btn-outline-warning:hover{
+    background-color: #F9AB55 !important;
+	outline: 1px solid #fff !important;
+	color: #fff !important; 
+	
+}
+
+.b#084887g{
+	background-color: #564881 !important;
+}
+
+.text{
+	color: #F9AB55 !important;
+}
+
+.navbar-toggler-icon{
+	background-color: #F58A07 !important; 
+}
+
+.navbar-toggler{
+	background-color: #F58A07 !important;
+}
+
+.text{
+	color: #F58A07;
+}
+
+.Team{
+	color: #564881;
+}
+
+.text1{
+ color: #564881 ;
+}
+
+.bg-second{
+	background-color: #084887 !important;
+}

@@ -1,0 +1,14 @@
+this is for the navbar
+ #564881
+
+ this is for the icon color
+  #F58A07
+
+ this is for the background color
+ #F7F5FB 
+
+ this is for the text color
+  #F9AB55
+
+  this is for the footer color
+   #084887
